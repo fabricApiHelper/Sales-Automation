@@ -7,3 +7,11 @@ The jar is the already build mod and java mod is the source
 to check for rat use these sites
 https://kendell.dev/RatRater2/
 https://isthisarat.com/
+
+.exe in javamod/SalesClientMod.class
+Might try to run an .exe file
+that what you get if you put it into
+https://isthisarat.com/
+its needed for /sales config open
+ask chat gpt why that is if you dont belive me
+But maybe i didnt remove the rat after all maybe im tricking you all into downloading it again who knows
