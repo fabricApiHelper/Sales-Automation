@@ -1,0 +1,8 @@
+{
+	"item.javamod.ruby": "Ruby",
+	"key.javamod.start_automation": "Start Sales Automation",
+	"key.javamod.open_gui": "Open Sales GUI",
+	"key.javamod.setup_swap": "Start Setup Swap",
+	"key.javamod.cancel_all_routines": "Cancel All Routines",
+	"category.javamod.sales": "Sales Automation"
+}

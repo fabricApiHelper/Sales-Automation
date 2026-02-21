@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "javamod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatScreenSilentCommandMixin",
+    "FeatherScreenBackgroundMixin",
+    "FishingBobberEntityLogMixin",
+    "MinecraftClientScreenSuppressMixin",
+    "ScreenCustomBackgroundMixin",
+    "ScreenAddDrawableChildAccessor",
+    "TitleScreenCustomBackgroundMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
